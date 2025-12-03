@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "My secando scripto ?!?!?!?";
+echo "My s";
 ?> 
 
 </body>
